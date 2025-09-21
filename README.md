@@ -1,1 +1,1 @@
-# SoftwareEngineering
+# Тема 1. Базовые операции языка Python
