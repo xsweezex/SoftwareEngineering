@@ -1,4 +1,4 @@
-<img width="955" height="814" alt="{276CCEE3-30D5-4A5B-B1C6-B88E479C1AAC}" src="https://github.com/user-attachments/assets/54a33ad2-a0f9-4fab-9ce1-3e9886833fb4" /># Тема 1. Базовые операции языка Python
+# Тема 1. Базовые операции языка Python
 
 Отчет по Теме #2 выполнил: Шабалин Алексей Дмитриевич
 ПИЭ-23-1
