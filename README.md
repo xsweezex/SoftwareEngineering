@@ -21,7 +21,7 @@
 
 # 1 Простой итератор, но у него нет гибкой настройки, например его нельзя развернуть. Он работает просто как next(), но нет prev()
 
-![Меню](https://github.com/xsweezex/SoftwareEngineering/blob/tema10/pics/lab1.jpg)
+![Меню](https://github.com/xsweezex/SoftwareEngineering/blob/tema11/pics/lab1.png)
 
 # Вывод
 при повторных вызовах с одинаковыми аргументами.
