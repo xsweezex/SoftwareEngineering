@@ -38,7 +38,7 @@
 ![Меню](https://github.com/xsweezex/SoftwareEngineering/blob/tema11/pics/lab3.png)
 
 # Вывод
-Списки в Python поддерживают множественную итерацию,
+Списки в Python поддерживают множественную итерацию
 
 # 4 Выражения генераторы
 
