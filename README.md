@@ -28,9 +28,16 @@
 
 # 2 Класс итератор с гибкой настройкой и удобными применением
 
+![Меню](https://github.com/xsweezex/SoftwareEngineering/blob/tema11/pics/lab2.png)
+
 # 3 Генератор списка
+
+![Меню](https://github.com/xsweezex/SoftwareEngineering/blob/tema11/pics/lab3.png)
 
 # 4 Выражения генераторы
 
+![Меню](https://github.com/xsweezex/SoftwareEngineering/blob/tema11/pics/lab4.png)
+
 # 5 Такой же счетчик, как и в первом задании, только это генератор и использует yield
 
+![Меню](https://github.com/xsweezex/SoftwareEngineering/blob/tema11/pics/lab5.png)
